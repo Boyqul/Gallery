@@ -1,0 +1,13 @@
+@import url("https://fonts.googleapis.com/css2?family=Ubuntu&display=swap");
+
+body {
+  font-family: "Ubuntu", sans-serif;
+}
+
+.title {
+  text-align: center;
+  font-size: 50px;
+  letter-spacing: 2px;
+  margin-top: 50px;
+  margin-bottom: 10px;
+}
